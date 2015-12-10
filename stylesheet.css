@@ -1,15 +1,41 @@
 /*stylesheet.css */
 p {
-   color: rgb(0, 85, 245);
+   color: rgb(0, 0, 0);
     
 }
 
 h1 {
-    color:#307fdd
+    color:#305beb
+}
+
+h2 {
+    color:#000000
+}
+
+h2:hover {
+    color:#2b00db;
 }
 
 
 h3 {
-    font-style: italic;
+    font-style: italic;    
+}
+
+h3:hover {
+    font-style: oblique; 
+}
+
+
+h4 {
+    color: #0080ff;
+}
+
+h4:hover {
+    color: orangered; 
     
+}
+
+p:hover {
+	color: #0900ea;	
+	
 }
