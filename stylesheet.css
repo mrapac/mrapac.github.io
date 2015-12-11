@@ -4,7 +4,7 @@ p {
     
 }
 
-h1 {
+h1:hover {
     color:#305beb;
 }
 
@@ -37,13 +37,13 @@ h4:hover {
 }
 
 p:hover {
-	color: #0900ea;	
+	color: #0000ff;	
 	
 }
 
 
 #image {
-    position: fixed;
+    margin-top: 80px; 
     
 }
 
@@ -53,11 +53,11 @@ p:hover {
 	position: fixed;
 	width: 97.5%;
 	margin-top: 0px;
-    margin-left: 160px; 
 	height: 55px;
 	margin-bottom: 20px;
     font-family: Helvetica, serif; 
-    padding-bottom: 20px; 
+    font-size: 0.8em; 
+    padding-bottom: 5px; 
     text-align: center;
     background-color: #b1d1ed;
 }
