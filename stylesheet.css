@@ -5,15 +5,16 @@ p {
 }
 
 h1 {
-    color:#305beb
+    color:#305beb;
 }
 
 h2 {
-    color:#000000
+    color:#000000;
+    border:  1px solid blue; 
 }
 
 h2:hover {
-    color:#2b00db;
+    color:blue;
 }
 
 
@@ -38,4 +39,48 @@ h4:hover {
 p:hover {
 	color: #0900ea;	
 	
+}
+
+
+#image {
+    position: fixed;
+    
+}
+
+#header {
+	z-index: 1; 
+    clear:both; 
+	position: fixed;
+	width: 97.5%;
+	margin-top: 0px;
+    margin-left: 160px; 
+	height: 55px;
+	margin-bottom: 20px;
+    font-family: Helvetica, serif; 
+    padding-bottom: 20px; 
+    text-align: center;
+    background-color: #b1d1ed;
+}
+
+#footer {
+    clear: both; 
+    position: relative;
+	margin-top: 10px;
+	width: 100%;
+	height: 40px;
+	background-color: #b1d1ed;
+	margin-bottom: 10px;
+    padding-top: 1px; 
+}
+
+#footer p {
+    font-family:sans-serif;
+    font-size: 0.8em; 
+    text-align: center;
+}
+
+#space {
+    margin-top: 100px; 
+    
+    
 }
