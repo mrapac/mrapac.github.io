@@ -16,10 +16,12 @@ profile remainig content
 favicon 
 run webpagetest & optimize 
 add google analytics
+use GWMT
+submit to google 
 
 To Do
 -----
-use GWMT
+
 do SEO checkup & fixes 
 run HTML5boilerplate recommended customizations
 
