@@ -22,9 +22,11 @@ use GWMT
 do SEO checkup & fixes 
 run webpagetest & optimize 
 run HTML5boilerplate recommended customizations
+favicon 
 
 
 Dropped
 -------
 css boxes and positioning 
 add some interactivity with jQuery 
+center nabvar
