@@ -21,7 +21,7 @@ submit to google
 
 To Do
 -----
-
+social buttons add 
 do SEO checkup & fixes 
 run HTML5boilerplate recommended customizations
 
