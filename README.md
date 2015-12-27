@@ -11,17 +11,20 @@ basic HTML profile
 js as external file
 css as external file
 css :hover style
-
-
+add bootstrap 
+profile remainig content
 
 To Do
 -----
-css boxes and positioning 
-add bootstrap 
-add some interactivity with jQuery 
 add google analytics
 add custom domain
 use GWMT
 do SEO checkup & fixes 
 run webpagetest & optimize 
-profile remainig content
+run HTML5boilerplate recommended customizations
+
+
+Dropped
+-------
+css boxes and positioning 
+add some interactivity with jQuery 
