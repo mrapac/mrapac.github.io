@@ -15,14 +15,13 @@ add bootstrap
 profile remainig content
 favicon 
 run webpagetest & optimize 
+add google analytics
 
 To Do
 -----
-add google analytics
 use GWMT
 do SEO checkup & fixes 
 run HTML5boilerplate recommended customizations
-
 
 
 Dropped

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+  <url>
+    <loc>http://mrapac.github.io/</loc> 
+    <image:image>
+       <image:loc>Michal_black_background.jpg</image:loc>
+       <image:caption>Michal Rapacki-Zimny</image:caption>
+    </image:image>
+  </url>
+</urlset>
