@@ -4,6 +4,7 @@
 My online CV
 ============
 
+basic version ready and live on 27 DEC 2015
 
 Done
 ----
@@ -18,12 +19,13 @@ run webpagetest & optimize
 add google analytics
 use GWMT
 submit to google 
+do SEO checkup & fixes 
+google plus add 
+
 
 To Do
 -----
-social buttons add 
-do SEO checkup & fixes 
-run HTML5boilerplate recommended customizations
+
 
 
 Dropped
@@ -32,3 +34,4 @@ css boxes and positioning
 add some interactivity with jQuery 
 center nabvar
 add custom domain
+run HTML5boilerplate recommended customizations
